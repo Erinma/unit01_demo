@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onCancelled(CancelledException cex) {
-
+                System.out.println("cancelled");
             }
 
             @Override
