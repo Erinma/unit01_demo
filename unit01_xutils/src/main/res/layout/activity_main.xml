@@ -22,7 +22,7 @@
         android:text="view"
         />
     <Button
-        android:id="@+id/mybtn3"
+        android:id="@+id/branchbtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="view"
